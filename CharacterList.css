@@ -1,0 +1,18 @@
+.character-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .character-box {
+    border: 1px solid rgb(17, 10, 10)c2c;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .character-box img {
+    max-width: 50%;
+    height: auto;
+  }
+  
